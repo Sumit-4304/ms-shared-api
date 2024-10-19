@@ -41,16 +41,17 @@ public class SignupRequestDTO extends GenericDTO {
     @NotEmpty(message = "Email-Id is mandatory")
     @Email
     private String email;
-    
-    @NotEmpty(message = "PhoneNumber is mandatory")
-    private String phoneNumber; //TODO - Once Verified can not be edit, if want to added another number then verify by OTP
-    
-    private String referralCode;
 
-    private String country;
+    @NotEmpty(message = "Address is mandatory")
+    private String address;
 
-	private String countryCode;
+
+    @NotEmpty(message = "MobileNumber is mandatory")
+    private String mobileNumber; //TODO - Once Verified can not be edit, if want to added another number then verify by OTP
 
     @NotNull(message = "ISD Code is mandatory")
 	private String isdCode;
+
+    @NotEmpty(message = "Role is mandatory")
+    private String role;
 }
