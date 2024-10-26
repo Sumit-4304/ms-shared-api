@@ -4,3 +4,7 @@
 *.xml
 target/classes/com/ms/shared/api/auth/StaffSignupRequestDTO.class
 /target
+/target
+/target
+/target
+*.jar
