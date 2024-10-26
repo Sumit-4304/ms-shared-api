@@ -8,3 +8,4 @@ target/classes/com/ms/shared/api/auth/StaffSignupRequestDTO.class
 /target
 /target
 *.jar
+*.lst

@@ -13,6 +13,7 @@ D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\invoice\itemd
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\LogoutResponseDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\tinyurlshortener\TinyUrlShortenerRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\subscription\plan\SubscriptionPlanDTO.java
+D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\ParentSignupResponseDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\referral\ReferralOtherInfo.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\referral\ReferralResponseDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\subscription\plan\UserSubscriptionPlanInfo.java
@@ -31,6 +32,7 @@ D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\generic\Pagin
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\user\profile\UserProfileResponseDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\OrgSignupRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\generic\FederatedUserDTO.java
+D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\TeacherSignupRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\user\subscription\UserPlanSubscriptionRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\SignupRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\generic\Notification.java
@@ -42,6 +44,7 @@ D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\payment\order
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\generic\FilterDataDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\WhatsappMessage\WhatsappMessageDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\referral\ReferralNodeInfo.java
+D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\ParentSignupRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\LogoutRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\payment\order\PaymentOrderRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\user\device\DeviceInfoDTO.java
@@ -50,6 +53,7 @@ D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\validator\Dat
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\LoginResponseDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\StaffSignupRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\WhatsappMessage\WhatsappMessageRequestDTO.java
+D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\auth\TeacherSignupResponseDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\generic\GenericDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\payment\order\PaymentOrderCallbackRequestDTO.java
 D:\MS-School-Project\ms-shared-api\src\main\java\com\ms\shared\api\user\profile\UserProfileRequestDTO.java
