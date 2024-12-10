@@ -21,9 +21,9 @@ public class SignupResponseDTO extends GenericDTO {
 	private String _dateOfBirth;
 	private String _gender;
 	//private String _email;
-	private String _mobileNumber;
+	//private String _mobileNumber;
 	private boolean _isActive;
     private boolean _isEmailVerified;
     private boolean _isPhoneVerified;
-	private String _identityProvider;
+	private String _admissionId;
 }
